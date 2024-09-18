@@ -1,4 +1,4 @@
-# nord-deep
+# zsh nord-deep
 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) theme in the [Nord](https://www.nordtheme.com/) color scheme.
 
 ![screenshot](https://github.com/marlosirapuan/nord-deep/assets/802722/dc2b59cd-f139-4e3e-b80d-8ba73127d775)
